@@ -24,7 +24,7 @@ print(Fore.MAGENTA, '\_| \_/\___/___|\__, |')
 print(Fore.MAGENTA, '                 __/ |')
 print(Fore.MAGENTA, '                |___/ ')
 print('\n')
-print(Fore.WHITE, 'Coded by @NezyGhoul#8130 feat by Doctor Dx!')
+print(Fore.WHITE, 'Coded by @NezyGhoul#8130')
 print('\n')
 
 
